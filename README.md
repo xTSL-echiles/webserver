@@ -67,4 +67,6 @@ Google Chrome/Microsoft Edge/Mozila 4.0 и старше/Opera -> http://localhos
 
 ## localhost:8080/dow/
 ![Image alt](https://github.com/Katczinski/webserv/blob/master/srcs/www/downloads/auto/location_dow.png)
+## localhost:8080/cgi-bin/game.py
+![Image-alt](https://github.com/xTSL-echiles/webserver/blob/master/srcs/www/downloads/auto/pong.png)
 ____
