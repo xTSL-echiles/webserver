@@ -59,6 +59,9 @@ Google Chrome/Microsoft Edge/Mozila 4.0 и старше/Opera -> http://localhos
 ### Скачивание с сервера:
 Google Chrome/Microsoft Edge/Mozila 4.0 и старше/Opera -> http://localhost:8080/dow/. Файлы не относящиеся к типу **mp4 | jpg | png | jpeg | gif | html** начинают загрузку, остальные воспроизводятся в браузере с возможностью сохранения.
 
+### Открытие CGI:
+Google Chrome/Microsoft Edge/Mozila 4.0 и старше/Opera -> http://localhost:8080/cgi-bin/game.py. Необходим интерпритатор puton3. форма и кнопка OK переводит на сайт http://localhost:8080/cgi-bin/script.php формирующий кнопку на игру, необходим интерпритатор php7.3.
+
 ## localhost:8080/
 ![Image alt](https://github.com/Katczinski/webserv/blob/master/srcs/www/downloads/auto/location_root.png)
 
